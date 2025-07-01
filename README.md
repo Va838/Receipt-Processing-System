@@ -46,7 +46,7 @@ This project is a serverless application that automatically processes receipt im
 
 2. **Configure environment variables** for the Lambda:
    ```env
-   TABLE_NAME=ReceiptsTable
+   TABLE_NAME= name_of_the_table
    EMAIL_FROM=your_verified_email@example.com
    EMAIL_TO=user_email@example.com
    ```
