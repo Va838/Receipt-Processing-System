@@ -69,16 +69,3 @@ Once a receipt is uploaded:
 - Textract works best with clear, high-resolution images.
 - All resources should be deployed in the same region (e.g., `us-east-1`).
 
----
-
-## 📃 License
-
-MIT License
-
----
-
-## 🙌 Acknowledgments
-
-Thanks to AWS for enabling fully serverless document-processing pipelines with S3, Lambda, Textract, DynamoDB, and SES.
-
----
